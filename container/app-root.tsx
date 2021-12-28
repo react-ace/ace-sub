@@ -1,5 +1,6 @@
 import React from 'react';
 
+import '@sub/scss/index.scss';
 import AppTheme from '@sub/core/theme/index';
 import AppRoute from '@sub/core/route/index';
 
