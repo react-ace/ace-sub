@@ -1,7 +1,6 @@
 const Tool = {
   font: {
-    // family: '"Open Sans", system-ui, sans-serif',
-    family: '"Ubuntu Mono", system-ui, sans-serif',
+    family: '"Open Sans", "Ubuntu Mono", system-ui, sans-serif',
     size14: '14px',
     size15: '15px',
     size16: '16px',
@@ -20,6 +19,9 @@ const Tool = {
   },
   spacing01: '0.1px',
   spacing02: '0.2px',
+  spacing03: '0.3px',
+  spacing04: '0.4px',
+  spacing05: '0.5px',
   lineHeight: 1.5,
 };
 
